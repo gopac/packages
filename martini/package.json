@@ -1,0 +1,7 @@
+{
+    "package" : {
+        "name"   : "martini",
+        "vendor" : "go-martini",
+        "url"    : "https://github.com/go-martini/martini.git"
+    }
+}

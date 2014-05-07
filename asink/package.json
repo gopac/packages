@@ -1,7 +1,7 @@
 {
-	"package" : {
-		"name"   : "asink",
-		"vendor" : "GroundSix",
-		"url"    : "https://github.com/GroundSix/asink.git"
-	}
+    "package" : {
+        "name"   : "asink",
+        "vendor" : "GroundSix",
+        "url"    : "https://github.com/GroundSix/asink.git"
+    }
 }
