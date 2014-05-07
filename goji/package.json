@@ -1,0 +1,7 @@
+{
+    "package" : {
+        "name"   : "goji",
+        "vendor" : "zenazn",
+        "url"    : "https://github.com/zenazn/goji.git"
+    }
+}
